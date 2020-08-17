@@ -12,7 +12,7 @@ dados<-read.table("dados.csv", header=TRUE)
 # perhaps you may have problems on this step, for one reason, your directory
 # is in a different path than you data, in this case you have to change it:
 
-setwd("/home/luciano/Desktop/Curso_IBGE_UNEMAT")
+setwd("/home/usr/Desktop/Curso")
 
 # ------------Now your data and processing workspace of R "r" 
 #on same spot. let's make our data analysis-----------------------
