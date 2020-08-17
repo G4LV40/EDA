@@ -4,7 +4,7 @@
 # lets demonstrate both:
 
 #---online path---#
-x<-read.table("https://raw.githubusercontent.com/G4LV40/Rsutdio_1/master/dados.csv")
+x<-read.table("https://raw.githubusercontent.com/G4LV40/EDA/master/dados.csv")
 
 # directory path:
 dados<-read.table("dados.csv", header=TRUE)
